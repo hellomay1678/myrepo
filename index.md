@@ -1,3 +1,20 @@
-# My Ropo
+---
+layout: default
+---
 
-Hello World
+![avatar](avatar.jpg.jpg)
+
+# Wendy
+
+ya
+
+- - -
+
+### about
+
+[My FaceBook](https://www.facebook.com/hellomayhellomay)
+
+### Links
+
+
+- - -
