@@ -1,6 +1,4 @@
----
-layout: default
----
+
 
 ![avatar](avatar.jpg.jpg)
 
